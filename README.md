@@ -1,5 +1,7 @@
 # Refund Tracker UI
 
+> 📹 **[Watch the video demo](https://www.loom.com/share/964c709a7a0a4767836b07e2a2c2b84e)** — A walkthrough of the project with voiceover.
+
 A card-based refund tracking dashboard built with **Next.js 14**, **React**, and **Tailwind CSS**.  
 It simulates how cardholders can see all refunds associated with their credit cards in a single, focused UI.
 
